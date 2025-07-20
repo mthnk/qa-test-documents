@@ -77,7 +77,7 @@ Currently pursuing opportunities in QA testing with focus on:
 ## 📫 Contact Information
 
 - **LinkedIn**: [linkedin.com/in/metehank](https://www.linkedin.com/in/metehank/)
-- **Location**: Istanbul, Turkey
+- **Location**: Bursa, Turkey
 - **Education**: Management Information Systems - Istanbul University
 
 ---
